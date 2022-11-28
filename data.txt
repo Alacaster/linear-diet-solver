@@ -1,0 +1,58 @@
+#FORMAT
+#nutrients followed by new line no extra spaces
+#empty line
+#ingredients followed by comma followed by a list of nutrient ammounts in the same order as the nutrients list
+omega-3, fish oil capsules
+tryptophan, egg powder/soy protein (protein technologies international)
+threonine, egg powder/soy protein
+isoleucine, egg powder/soy protein
+leucine, egg powder/soy protein
+lysine, egg powder/soy protein
+methionine, egg powder/soy proteinT
+cystine, egg powder/soy protein
+phenylalanine, egg powder/soy protein
+tyrosine, egg powder/soy protein
+valine, egg powder/soy protein
+arginine, egg powder/soy protein
+histidine, egg powder/soy protein
+alanine, beef gelatin
+aspartic acid, egg powder/soy protein
+glutamic acid, egg powder/soy protein
+glycine, beef gelatin
+proline, beef gelatin
+sernine, acid, egg powder/soy protein
+retinol, turkey liver
+beta-carotene, carrot
+cryptoxanthin, butternut squash
+lycopene, tomato powder
+luetin, kale
+vitamin c, bell pepper
+vitamin d, herring  
+vitamin e, wheat germ oil
+vitamin k, parsley powder
+thiamin, deactivated yeast
+riboflavin, deactivated yeast
+niacin, deactivated yeast
+vitamin b6, supplement if needed
+folate, deactivated yeast
+viatamin b12, supplement if needed
+pantothenic acid, shiitake mushrooms
+choline, egg powder
+betaine, spinach powder
+calcium, egg shell or celery seed
+iron, parsley
+magnesium, cottonseed meal
+phosphorus, cottonseed meal
+potassium, parsley
+sodium, iodized salt
+zinc, supplement
+copper, supplement
+manganese, supplement
+selenium, brazil nuts
+
+egg powder, 
+
+
+
+
+trans-resveratrol Powder, piperine, tumeric extract
