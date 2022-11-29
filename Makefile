@@ -1,4 +1,4 @@
-LDLIBS += -llapacke -llapack -lblas -ggdb -Og -Wall
+LDLIBS += -llapacke -llapack -lblas -ggdb -Og -Wall -std=gnu17
 CC = gcc
 
 .PHONY: clean

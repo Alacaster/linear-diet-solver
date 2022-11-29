@@ -1,5 +1,5 @@
 #FORMAT
-#nutrients followed by new line no extra spaces
+#nutrients followed by new line no extra spaces or punct
 #empty line
 #ingredients followed by comma followed by a list of nutrient ammounts in the same order as the nutrients list
 #names are to only comprised of alphanumeric characters and spaces. NOT TABS.
