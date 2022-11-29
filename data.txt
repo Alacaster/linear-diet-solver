@@ -2,6 +2,7 @@
 #nutrients followed by new line no extra spaces
 #empty line
 #ingredients followed by comma followed by a list of nutrient ammounts in the same order as the nutrients list
+#names are to only comprised of alphanumeric characters and spaces. NOT TABS.
 omega-3, fish oil capsules
 tryptophan, egg powder/soy protein (protein technologies international)
 threonine, egg powder/soy protein

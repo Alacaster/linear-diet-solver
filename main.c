@@ -28,8 +28,12 @@ lde_t loaddata(int col, int row, double * array, char *** prownames, char ** row
     int buf_loc = 0; //now let's make some stack space to store the strings for the data
     char *prownames_stack[col], *rownamedata_stack, *pcolnames_stack[row], *colnamedata_stack;
     rownamedata_stack = malloc(1024*sizeof(*rownamedata_stack));
-    while(buf_loc < buffer_size){
-        skipifcomment
+    while(buf_loc < buffer_size){ //loop assumes we are on a new line and buf is the chracter after '\n'
+        skipifcomment;
+        switch(buf){
+        case '\r': buf == ' '; continue;
+        case '\n': status = SUCCESS; break;}
+        
     }
 }
 #undef skipifcomment
